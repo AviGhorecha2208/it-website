@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksolvit_site=self.webpackChunksolvit_site||[]).push([[941],{6941:(s,e,t)=>{t.r(e),t.d(e,{default:()=>l});var a=t(7561),c=t(4076),i=t(4414);const l=()=>(0,i.jsxs)("main",{className:"pt-16",children:[(0,i.jsx)(a.ru,{}),c.bG.projects.map((s=>(0,i.jsx)(a.um,{project:s},s.id)))]})}}]);

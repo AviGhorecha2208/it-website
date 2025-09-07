@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksolvit_site=self.webpackChunksolvit_site||[]).push([[728],{4728:(s,e,t)=>{t.r(e),t.d(e,{default:()=>l});var a=t(7561),i=t(4414);const l=()=>(0,i.jsx)("main",{className:"pt-16",children:(0,i.jsx)(a.Im,{})})}}]);
